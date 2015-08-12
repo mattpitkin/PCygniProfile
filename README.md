@@ -1,4 +1,4 @@
-# PCygniProfile
+# P Cygni line profile formation
 
 A very simplified schematic of the formation of the [P Cygni](https://en.wikipedia.org/wiki/P_Cygni) profile.
 

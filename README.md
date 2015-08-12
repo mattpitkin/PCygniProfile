@@ -1,2 +1,9 @@
 # PCygniProfile
-A very simplified schematic of the formation of the P Cygni profile
+
+A very simplified schematic of the formation of the [P Cygni](https://en.wikipedia.org/wiki/P_Cygni) profile.
+
+Any comments, suggestions or corrections are appreciated. Please feel free to use and adapt these images.
+
+&copy; 2015 Matthew Pitkin
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
